@@ -1,7 +1,7 @@
 # HLT Portfolio
  This repository will store assignments, combination of code, code narrative, reports, and presentations from Human Language Technologies with Professor Karen Mazidi
 ## Portfolio Assignments 
-- Portfolio 0
+- [Overview of NLP] (https://github.com/saigeiwright/HLT-Portfolio/blob/main/Overview%20of%20NLP%20.pdf)
 - [Portfolio 1](https://github.com/saigeiwright/HLT-Portfolio/tree/main/Portfolio%201)
 - [Portfolio 2](https://github.com/saigeiwright/HLT-Portfolio/tree/main/Portfolio%202)
 - [Portfolio Guessing Game](https://github.com/saigeiwright/HLT-Portfolio/tree/main/Portfolio%20Guessing%20Game)
